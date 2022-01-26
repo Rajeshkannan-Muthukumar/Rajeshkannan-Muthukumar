@@ -8,6 +8,8 @@
 - 💬 Ask me about **HTML,CSS,JS,Bootstrap,Python**
 
 - ⚡ Fun fact **I'm a good boy**
+- 🔭 I’m currently studying **1st year on AI and DS Engineering**
+- 📫 You can reach me through **Dm on Instagram**
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajeshkannan-muthukumar" alt="rajeshkannan-muthukumar" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
