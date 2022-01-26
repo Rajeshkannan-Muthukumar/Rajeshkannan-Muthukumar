@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rajesh</h1>
-<h3 align="center">An AI and Data science Student from India</h3>
-<img src="https://d1m75rqqgidzqn.cloudfront.net/wp-data/2020/03/04123059/business-and-ai-technology-vector-id1192241804-1.jpg">
+<h3 align="center">An AI and Data Science student from India</h3>
+<img align="right" alt="Coding" width="350"src="https://d1m75rqqgidzqn.cloudfront.net/wp-data/2020/03/04123059/business-and-ai-technology-vector-id1192241804-1.jpg">
+<br>
 
+- 🌱 I’m currently learning **Frontend Web development and Python**
+
+- 💬 Ask me about **HTML,CSS,JS,Bootstrap,Python**
+
+- ⚡ Fun fact **I'm a good boy**
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajeshkannan-muthukumar" alt="rajeshkannan-muthukumar" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
