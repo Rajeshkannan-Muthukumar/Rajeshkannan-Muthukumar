@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Frontend Web development and Python**
 
-- 💬 Ask me about **HTML,CSS,JS,Bootstrap,Python**
+- 💬 Ask me about **HTML , CSS , JS , Bootstrap ,Python**
 
 - ⚡ Fun fact **I'm a good boy**
 - 🔭 I’m currently studying **1st year on AI and DS Engineering**
