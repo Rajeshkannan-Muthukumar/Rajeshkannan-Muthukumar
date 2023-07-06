@@ -8,7 +8,7 @@
 - 💬 Ask me about <h5> Full stack web development, Python Programming, ML, Data science </h5>
 
 - ⚡ Fun fact *I'm a good boy*
-- 🔭 I’m currently studying *2nd year on AI and DS Engineering*
+- 🔭 I’m currently pursuing *Bachelor's on AI and DS Engineering*
 - 📫 You can reach me through *Dm on Instagram,Twitter*
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajeshkannan-muthukumar" alt="rajeshkannan-muthukumar" /></a> </p>
 
